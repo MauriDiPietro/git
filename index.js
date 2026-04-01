@@ -1,3 +1,3 @@
-const saludo = 'Hola Mundo';
+const estaEsUnaVariable = 'Hola Mundo';
 
-console.log(saludo);
+console.log(`¡${estaEsUnaVariable}!`);
