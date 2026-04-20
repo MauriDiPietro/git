@@ -1,12 +1,15 @@
-const variable1 = 'asdasdasd'
+import fs from 'fs';
+import React from 'react';
+import path from 'path';
+import crypto from 'crypto';
+import a from '../../index.js';
 
-const var2 = 8
+const variable1 = "asdf";
 
-console.log(`¡${variable1}!`)
+const var2 = 8;
+
+console.log(`¡${variable1}!`);
 
 function myFunction() {
-
-  console.log('Hello, World!')
-
+  console.log("Hello, World!");
 }
-
