@@ -1,8 +1,12 @@
-const variable1 = 'asdasdasd';
+const variable1 = 'asdasdasd'
 
-console.log(`¡${variable1}!`);
+const var2 = 8
 
-console.log(`El resultado de la suma es: ${resultado}`);
-const resultado = 2 + 3;
+console.log(`¡${variable1}!`)
 
-console.log(`El resultado de la suma es: ${resultado}`);
+function myFunction() {
+
+  console.log('Hello, World!')
+
+}
+
