@@ -9,3 +9,4 @@ export default {
     'subject-case': [2, 'never', ['upper-case']]
   }
 };
+
