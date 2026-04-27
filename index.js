@@ -1,7 +1,9 @@
-import fs from 'fs';
-import React from 'react';
-import path from 'path';
 import crypto from 'crypto';
+import fs from 'fs';
+import path from 'path';
+
+import React from 'react';
+
 import a from '../../index.js';
 
 const variable1 = "asdf";
